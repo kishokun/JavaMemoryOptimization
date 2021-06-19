@@ -1,0 +1,12 @@
+package com.kuru.escapingreferences.customers;
+
+public class Main {
+
+	public static void main(String[] args) {
+		CustomerRecords records = new CustomerRecords();
+		records.addCustomer("kk");
+		records.addCustomer("kkkk");
+
+	}
+
+}

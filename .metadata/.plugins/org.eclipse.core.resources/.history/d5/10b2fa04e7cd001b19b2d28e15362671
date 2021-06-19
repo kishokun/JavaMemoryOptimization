@@ -1,0 +1,4 @@
+module EscapingReferences {
+	exports com.virtualpairprogrammers.escapingreferences.customers.customerImplementation;
+	exports com.virtualpairprogrammers.escapingreferences.customers;
+}
